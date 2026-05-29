@@ -2,6 +2,10 @@
 
 지역 상권 데이터를 기반으로 **인구, 부동산, 소비 패턴**을 분석하고  
 창업자를 위한 맞춤형 **보고서 & 전략**을 자동 생성하는 API 서비스입니다.
+<img width="723" height="408" alt="image" src="https://github.com/user-attachments/assets/813ad1d1-9a62-4203-a6a8-ae0b02091efe" />
+<img width="1921" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7a61178-9436-45c0-80a6-277ee21776c3" />
+<img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/559515c5-dcf4-463e-89eb-221172305d39" />
+
 
 ---
 
